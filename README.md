@@ -5,13 +5,12 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Perilla]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Nandu S Kumar] - [College of Engineering Perumon,Kollam]
+- Member 2: [Sundara Siva Sreerag] - [College of Engineering Perumon,Kollam]
 
 ### Project Description
 [2-3 lines about what your project does]
