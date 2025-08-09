@@ -24,30 +24,30 @@ We created a Wi-Fi imposter that hijacks your browsing journey and force-feeds y
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Languages used
       C (for ESP32 firmware)
       HTML, CSS, JavaScript (for meme page
-- [Frameworks used]
+- Frameworks used
       Arduino Core for ESP32
       NodeMCU firmware environment     
-- [Libraries used]
+- Libraries used
       WiFi.h (ESP32 Wi-Fi control)
       DNSServer.h (to redirect to meme page)
       ESPAsyncWebServer.h (host the memes)
       ESP32 Deauther(SpacehuhnTech/esp8266_deauther)
-- [Tools used]
+- Tools used
       Arduino IDE
       GitHub
 
 
 For Hardware:
-- [List main components]
+- List main components
     ESP32-WROOM-32 module
     NodeMCU board (ESP8266 variant)
-- [List specifications]
+- List specifications
     ESP32 Dual-core 240MHz ,Wi-Fi + Bluetooth, 4MB Flash
     NodeMCU with ESP8266, 80/160 MHz, 4MB Flash
-- [List tools required]
+- List tools required
     Micro-USB cable
     Laptop for flashing firmware
     jumper wires 
@@ -56,7 +56,7 @@ For Hardware:
 
 ### Implementation
 For Software:
-The ESP32 is programmed to scan and jam Wi-Fi networks in range (educational/demo purposes only, of course). When a device tries to connect, a captive portal triggers and redirects the user to our custom meme webpage hosted on the ESP32. The meme page is pure HTML/JS, designed to make people laugh at their lack of internet instead of crying.
+The ESP8266 is programmed to scan and jam Wi-Fi networks in range (educational/demo purposes only, of course). When a device tries to connect, a captive portal triggers and redirects the user to our custom meme webpage hosted on the ESP32. The meme page is pure HTML/JS, designed to make people laugh at their lack of internet instead of crying.
 # Installation
 Clone the repository
 git clone https://github.com/NANDU-SK-004/useless_project_temp.git
@@ -78,7 +78,7 @@ Open Serial Monitor to check logs
 
  Once running:
  - Access the Web Host via the IP shown in Serial Monitor
- - Browse the meme page
+ - User's will redirect to the page 
  - Use Wi-Fi scan page to detect and deauth networks (if enabled)
 
 
