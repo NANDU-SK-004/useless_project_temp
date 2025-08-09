@@ -111,11 +111,9 @@ At last, the final build is complete — proudly named Sagar Alias Jacker.
 
 ### Project Demo
 # Video
-[https://drive.google.com/file/d/12Tvl-ibHqV_ccodIy1E0-4MZTPnHs543/view?usp=drivesdk]
-The video demonstrates the process of Wi-Fi jamming, showing how users connect to a fake network and are redirected to a meme-filled page.
+https://drive.google.com/file/d/12Tvl-ibHqV_ccodIy1E0-4MZTPnHs543/view?usp=drivesdk
+- The video demonstrates the process of Wi-Fi jamming, showing how users connect to a fake network and are redirected to a meme-filled page.
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - **Nandu S Kumar**
