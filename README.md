@@ -58,10 +58,29 @@ For Hardware:
 For Software:
 The ESP32 is programmed to scan and jam Wi-Fi networks in range (educational/demo purposes only, of course). When a device tries to connect, a captive portal triggers and redirects the user to our custom meme webpage hosted on the ESP32. The meme page is pure HTML/JS, designed to make people laugh at their lack of internet instead of crying.
 # Installation
-[commands]
+Clone the repository
+git clone https://github.com/NANDU-SK-004/useless_project_temp.git
+cd useless_project_temp
+
+ Install required libraries in Arduino IDE
+ - ESPAsyncWebServer
+ - ESPAsyncTCP (for ESP8266) / AsyncTCP (for ESP32)
+ - WiFi library (comes built-in)
+
+Open the .ino file in Arduino IDE
+Select the correct Board and Port in Tools menu
+
 
 # Run
-[commands]
+Connect your ESP32/ESP8266 via USB
+Click 'Upload' in Arduino IDE to flash the code
+Open Serial Monitor to check logs
+
+ Once running:
+ - Access the Web Host via the IP shown in Serial Monitor
+ - Browse the meme page
+ - Use Wi-Fi scan page to detect and deauth networks (if enabled)
+
 
 
 
