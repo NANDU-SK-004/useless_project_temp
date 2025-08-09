@@ -89,14 +89,16 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/1.jpeg)
+![Components](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/2.jpeg)
+ESP8266 and ESP32
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Build](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/3.jpeg)
+The ESP32 and ESP8266 boards are now running the code. We are in the process of testing, troubleshooting, and resolving any detected errors to ensure smooth operation.
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/4.jpeg)
+At last, the final build is complete — proudly named Sagar Alias Jacker.
+
 
 ### Project Demo
 # Video
