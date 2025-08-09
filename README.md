@@ -102,16 +102,18 @@ ESP8266 and ESP32
 
 ![Build](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/3.jpeg)
 The ESP32 and ESP8266 boards are now running the code. We are in the process of testing, troubleshooting, and resolving any detected errors to ensure smooth operation.
+
 ![Build](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/redirect.png)
+
 While running the ESP32, the device broadcasts a fake Wi-Fi network. When users connect, it shows a “no internet” prompt and redirects them to a meme page.
 
 ![Final](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/4.jpeg)
 At last, the final build is complete — proudly named Sagar Alias Jacker.
 
 
-### Project Demo
-# Video
-https://drive.google.com/file/d/12Tvl-ibHqV_ccodIy1E0-4MZTPnHs543/view?usp=drivesdk
+
+# Project Demo
+Video Link: https://drive.google.com/file/d/12Tvl-ibHqV_ccodIy1E0-4MZTPnHs543/view?usp=drivesdk
 - The video demonstrates the process of Wi-Fi jamming, showing how users connect to a fake network and are redirected to a meme-filled page.
 
 
