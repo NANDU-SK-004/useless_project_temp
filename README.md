@@ -66,16 +66,13 @@ The ESP32 is programmed to scan and jam Wi-Fi networks in range (educational/dem
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Arduino IDE – Running Web Host Code
+![Arduino IDE – Running Web Host Code](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/arduino_ide.png)
 This image shows the Arduino IDE with the ESP8266/ESP32 web server code uploaded. The code configures the microcontroller to act as a local web host, serving the project’s interface to connected devices.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-Meme Page
+![Meme Page](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/meme.png)
 This image displays the meme page hosted by the ESP device. Users connected to the device’s network can view and interact with this page through their browser.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-Wi-Fi Scanning & Deauthentication Page
+![Wi-Fi Scanning & Deauthentication Page](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/scan.png)
 This image shows the Wi-Fi scanning and deauthentication interface. It lists available Wi-Fi networks and provides controls for initiating deauthentication packets for testing and network analysis.
 
 # Diagrams
