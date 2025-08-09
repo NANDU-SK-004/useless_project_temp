@@ -63,8 +63,7 @@ The ESP32 is programmed to scan and jam Wi-Fi networks in range (educational/dem
 # Run
 [commands]
 
-### Project Documentation
-For Software:
+
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
