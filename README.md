@@ -94,18 +94,6 @@ This image displays the meme page hosted by the ESP device. Users connected to t
 ![Wi-Fi Scanning & Deauthentication Page](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/scan.png)
 This image shows the Wi-Fi scanning and deauthentication interface. It lists available Wi-Fi networks and provides controls for initiating deauthentication packets for testing and network analysis.
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/1.jpeg)
@@ -114,6 +102,8 @@ ESP8266 and ESP32
 
 ![Build](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/3.jpeg)
 The ESP32 and ESP8266 boards are now running the code. We are in the process of testing, troubleshooting, and resolving any detected errors to ensure smooth operation.
+![Build](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/redirect.png)
+While running the ESP32, the device broadcasts a fake Wi-Fi network. When users connect, it shows a “no internet” prompt and redirects them to a meme page.
 
 ![Final](https://github.com/NANDU-SK-004/useless_project_temp/blob/main/4.jpeg)
 At last, the final build is complete — proudly named Sagar Alias Jacker.
@@ -128,9 +118,15 @@ At last, the final build is complete — proudly named Sagar Alias Jacker.
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- **Nandu S Kumar**
+  - Created the meme page  
+  - Added and configured ESP32 hosting code  
+  - Edited and updated the README  
+
+- **Sundara Siva Sreerag**
+  - Set up WiFi deauth code using a library  
+  - Debugged and fixed bugs in WiFi host and meme page connection  
+  - Edited the README file and contents  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
