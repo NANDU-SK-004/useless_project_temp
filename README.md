@@ -5,7 +5,7 @@
 
 
 ## Basic Details
-### Team Name: [Perilla]
+### Team Name: Perilla
 
 
 ### Team Members
