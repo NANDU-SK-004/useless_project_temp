@@ -13,13 +13,13 @@
 - Member 2: [Sundara Siva Sreerag] - [College of Engineering Perumon,Kollam]
 
 ### Project Description
-[This project combines an ESP8266-based Wi-Fi jammer with an ESP32-powered local web server to mimic a target Wi-Fi network and deliver a humorous, meme-based HTML page. When users connect, they are redirected to a fun, themed page filled with memes and dialogues for entertainment.]
+This project combines an ESP8266-based Wi-Fi jammer with an ESP32-powered local web server to mimic a target Wi-Fi network and deliver a humorous, meme-based HTML page. When users connect, they are redirected to a fun, themed page filled with memes and dialogues for entertainment.
 
 ### The Problem (that doesn't exist)
-[People connect to Wi-Fi networks without getting enough daily memes, leading to severe meme deficiency and boredom.]
+People connect to Wi-Fi networks without getting enough daily memes, leading to severe meme deficiency and boredom.
 
 ### The Solution (that nobody asked for)
-[We created a Wi-Fi imposter that hijacks your browsing journey and force-feeds you a glorious page of spicy memes and iconic Malayalam–Manglish dialogues, ensuring your laughter bandwidth is always full.]
+We created a Wi-Fi imposter that hijacks your browsing journey and force-feeds you a glorious page of spicy memes and iconic Malayalam–Manglish dialogues, ensuring your laughter bandwidth is always full.
 
 ## Technical Details
 ### Technologies/Components Used
